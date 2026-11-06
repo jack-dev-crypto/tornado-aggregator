@@ -1,4 +1,10 @@
 {
+  "lib/ens-contracts": {
+    "tag": {
+      "name": "v1.7.0",
+      "rev": "9b034936a42f462fc04bc0a929a419ede5e18d59"
+    }
+  },
   "lib/forge-std": {
     "tag": {
       "name": "v1.17.0",
